@@ -2,9 +2,9 @@
 
 > Turning free-text workout notes into structured, validated training data with an agentic two-LLM pipeline — shipped to production on iOS and Android.
 
-[![App Store](https://img.shields.io/badge/App_Store-Download-0D96F6?logo=apple&logoColor=white)](<APP_STORE_URL>)
-[![Google Play](https://img.shields.io/badge/Google_Play-Download-414141?logo=googleplay&logoColor=white)](<PLAY_STORE_URL>)
-[![Website](https://img.shields.io/badge/Website-misoard.github.io-1f6feb)](<SITE_URL>)
+[![App Store](https://img.shields.io/badge/App_Store-Download-0D96F6?logo=apple&logoColor=white)](https://apps.apple.com/us/app/calenfit-fitness-tracker/id6760555640)
+[![Google Play](https://img.shields.io/badge/Google_Play-Download-414141?logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=app.fitboard.mobile)
+[![Website](https://img.shields.io/badge/Website-calenfit.com-1f6feb)](https://calenfit.com)
 
 This repository is **not** the CalenFit codebase. It's a public write-up of the system design and the production engineering behind it. CalenFit is a live AI fitness app; this document explains how its core works and the trade-offs I made to ship it reliably to real users.
 
@@ -99,9 +99,9 @@ The result is advice that's **traceable and evidence-based** — every recommend
 
 ## Links
 
-- **App Store:** <APP_STORE_URL>
-- **Google Play:** <PLAY_STORE_URL>
-- **Website:** <SITE_URL>
+- **App Store:** https://apps.apple.com/us/app/calenfit-fitness-tracker/id6760555640
+- **Google Play:** https://play.google.com/store/apps/details?id=app.fitboard.mobile
+- **Website:** https://calenfit.com
 
 ---
 
